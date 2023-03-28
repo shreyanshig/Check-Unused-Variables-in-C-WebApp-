@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+.resultdiv {
+  background-color: rgba(0, 255, 255, 0.5);
+  height: 398px;
+  width: 398px;
+  display: inline-block;
+  margin-top: 60px;
+  margin-left: 507px;
+  border-radius: 54px;
+  padding: 29px;
+  color: white;
+  font-family: cursive;
+  word-spacing: 159px;
+  padding: 42px;
+  padding-top: 35px;
+  padding-left: 64px;
+  visibility: hidden;
+  border: 5px solid pink;
+}
+.heading {
+  color: white;
+  word-spacing: normal;
+  padding-left: 81px;
+  font-family: cursive;
+  padding-left: 25px;
+  font-weight: bold;
+  font-size: 23px;
+}
+.btn {
+  background-color: green;
+  margin-left: 560px;
+  height: 56px;
+  margin-top: 69px;
+  width: 393px;
+  color: white;
+  border: 1px solid green;
+  font-family: cursive;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: blanchedalmond;
+  color: black;
+}
