@@ -1,0 +1,76 @@
+body {
+  background: linear-gradient(to top right, #7e0f4b, #1a5865);
+  min-height: 100vh;
+}
+.textarea {
+  height: 500px;
+  width: 500px;
+  box-shadow: 25px 25px 10px;
+  border-radius: 18px;
+  border-color: white;
+  padding-top: 31px;
+  padding-left: 25px;
+  font-family: cursive;
+}
+.container {
+  margin-top: 50px;
+}
+.resultdiv {
+  height: 505px;
+  width: 600px;
+  display: inline-block;
+  padding-left: 127px;
+  padding-top: 63px;
+}
+.div {
+  display: inline-block;
+  width: 691px;
+  height: 600px;
+  margin-top: 50px;
+  margin-left: 59px;
+}
+.btn {
+  height: 40px;
+  width: 372px;
+  margin-bottom: 4px;
+  margin-left: 83px;
+  font-family: cursive;
+  background-color: green;
+  color: white;
+  border: 1px solid green;
+}
+.btn:hover {
+  background-color: aquamarine;
+  cursor: pointer;
+}
+.containerspan {
+  color: white;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 39px;
+  text-transform: uppercase;
+}
+.span1 {
+  color: greenyellow;
+}
+.span2 {
+  color: aqua;
+}
+.span3 {
+  color: red;
+}
+.span1:hover {
+  color: #7e0f4b;
+}
+.span2:hover {
+  color: darkblue;
+}
+.span3:hover {
+  color: lightpink;
+}
+.secondspan {
+  color: white;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 18px;
+}
